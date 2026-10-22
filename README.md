@@ -1,7 +1,13 @@
 ## Hi there 👋
 
- I tried XD 
-
+- I’m currently working on nothing
+- I’m currently learning nothing
+- I’m looking to collaborate on nothing
+- I’m looking for help with nothing
+- Ask me about nothing
+- How to reach me: Discord. systematic.midis
+- Pronouns: He/Him
+- Fun fact: I have ADHD
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=systematicmidis&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **systematicmidis/systematicmidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
