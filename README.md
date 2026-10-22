@@ -2,7 +2,7 @@
 
  I tried XD 
 
- [![Anurag's GitHub stats](v)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=systematicmidis)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **systematicmidis/systematicmidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
